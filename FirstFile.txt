@@ -1,5 +1,5 @@
-Hello, World!
-Now error-corrected
-Added after branching
+call(Hello, World!)
+call(Now error-corrected)
+call(Added after branching)
 
-bug fixed in master
+call(bug fixed in master)
